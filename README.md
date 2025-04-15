@@ -3,8 +3,7 @@ _It's centdecente to make a man go crazy_
 <br><br>
 [![Hits](https://hits.sh/github.com/tingirifistik/centdecente.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
-<img src="https://i.hizliresim.com/lrqe05r.PNG">
-<img src=https://user-images.githubusercontent.com/51286195/209442235-7069b8e7-b3f3-4b70-82cb-a86014836be0.png height="200px" width="400px"/>
+
 
 
 <h2>Kurulum</h2>
