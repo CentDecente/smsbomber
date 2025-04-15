@@ -27,11 +27,10 @@ while 1:
 
 
 
-
-    Sms: {}           {}by {}@CentDecente\n  
+    {}Developed by {}@CentDecente\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
-        menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
+        menu = (input(Fore.LIGHTRED_EX + " 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n" + Fore.LIGHTBLUE_EX + " Seçim: "))
         if menu == "":
             continue
         menu = int(menu) 
