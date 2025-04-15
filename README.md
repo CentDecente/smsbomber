@@ -1,7 +1,7 @@
 # CentDecente-SmsBomber
 _It's centdecente to make a man go crazy_
 <br><br>
-[![Hits](https://hits.sh/github.com/tingirifistik/centdecente.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
+[![Hits](https://hits.sh/github.com/tingirifistik/Enough-Reborn.svg?label=views&color=007ec6)](https://hits.sh/github.com/tingirifistik/Enough-Reborn/)
 
 
 
